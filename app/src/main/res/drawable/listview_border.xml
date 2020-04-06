@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+            <stroke
+                android:width="0dp"
+                android:color="@color/orange"/>
+            <solid
+                android:color="@color/clear_verywhite" />
+            <corners
+                android:bottomLeftRadius="@dimen/deep_listview_corner"
+                android:topLeftRadius="@dimen/deep_listview_corner"
+               />
+        </shape>
+    </item>
+
+</selector>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">たべモニター</string>
+    <string name="title_manage">管理</string>
+    <string name="title_recipe">レシピ</string>
+    <string name="title_camera">カメラ</string>
+    <string name="change">変更</string>
+    <string name="first_b">決定</string>
+    <string name="consumption">消費する食材の数を調整できます</string>
+    <string name="edittext"></string>
+    <string name="search_menu_search_text">レシピの検索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

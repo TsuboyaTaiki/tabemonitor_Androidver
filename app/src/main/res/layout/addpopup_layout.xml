@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <!--食材名-->
+        <TextView
+            android:id="@+id/addpop_text"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/popup_text"
+            android:textColor="@color/black_gray"/>
+        <!--個数入力-->
+        <EditText
+            android:id="@+id/addpop_edittext"
+            android:layout_gravity="center|right"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/popup_text"
+            android:textColor="@color/black_gray"
+            android:maxLength="4"
+            android:maxLines="1"
+            android:inputType="number" />
+        <!--食材の単位-->
+        <TextView
+            android:id="@+id/addpop_unit"
+            android:layout_gravity="center|right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/popup_text"
+            android:textColor="@color/black_gray"/>
+    </LinearLayout>
+    <!--確定ボタン-->
+    <Button
+        android:id="@+id/ok_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="OK"
+        android:background="@drawable/ok_background"/>
+</LinearLayout>

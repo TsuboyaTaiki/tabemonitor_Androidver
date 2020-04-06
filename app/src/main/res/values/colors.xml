@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="black_gray">#777777</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="medium_gray">#aaaaaa</color>
+    <color name="white_gray">#cccccc</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="coral">#fdfdfd</color>
+    <color name="light_white_gray">#eeeeee</color>
+    <color name="whitesmoke">#f5f5f5</color>
+    <color name="white">#ffffff</color>
+    <color name="light_red">#ffaaaa</color>
+    <color name="light_pink">#ef9a9a</color>
+    <color name="hot_pink">#ff69b4</color>
+    <color name="bright_pink">#D81B60</color>
+    <color name="purple">#800080</color>
+    <color name="vermilion">#ff4400</color>
+    <color name="light_vermilion">#ff7043</color>
+    <color name="orange">#ff7a00</color>
+    <color name="orange_yellow">#ffaf11</color>
+    <color name="_orange">#f99641</color>
+    <color name="weak_orange">#ffd3b5</color>
+    <color name="verylight_vermilion">#ff8A65</color>
+    <color name="verylight_orange">#ffab91</color>
+    <color name="light_orange">#efa267</color>
+    <color name="bright_orange">#ffa726</color>
+    <color name="light_yellow">#ffff88</color>
+    <color name="light_yellow_green">#ddff66</color>
+    <color name="bright_green">#ccff66</color>
+    <color name="yellow">#ffff00</color>
+    <color name="yellow_green">#aacc00</color>
+    <color name="light_green">#22aa11</color>
+    <color name="green">#109910</color>
+    <color name="deep_sky_blue">#00bfff</color>
+    <color name="medium_blue">#0000cd</color>
+
+    <!--透明・半透明色-->
+<color name="clear">#00ffffff</color>
+<color name="veryclear_white">#55f1f1f1</color>
+<color name="clear_white">#ccf1f1f1</color>
+<color name="clear_verywhite">#ccffffff</color>
+<color name="clear_gray">#cccccccc</color>
+<color name="clear_green">#ccaacc00</color>
+<color name="clear_blue">#cc7777ff</color>
+<color name="clear_red">#ccccaaaa</color>
+
+    </resources>

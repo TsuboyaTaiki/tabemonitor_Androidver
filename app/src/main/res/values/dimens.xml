@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="popup_text">20dp</dimen>
+    <dimen name="popup_corner">4dp</dimen>
+    <dimen name="deep_listview_corner">45dp</dimen>
+    <dimen name="shallow_listview_corner">5dp</dimen>
+    <dimen name="deep_detectlist_corner">15dp</dimen>
+    <dimen name="shallow_detectlist_corner">3dp</dimen>
+    <dimen name="listview_textsize">20dp</dimen>
+    <dimen name="side_padding">3dp</dimen>
+    <dimen name="consumfoods_textsize">17dp</dimen>
+    <dimen name="button_corner">20dp</dimen>
+    <dimen name="notFoodInMessage_corner">20dp</dimen>
+</resources>

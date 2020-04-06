@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/listview_border">
+    <ImageView
+        android:id="@+id/othumbnail"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:padding="3dp" />
+    <!--食材名-->
+    <TextView
+        android:id="@+id/otitle"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:textColor="@color/black_gray"
+        android:textSize="@dimen/consumfoods_textsize"
+        />
+    <!--個数-->
+    <TextView
+        android:id="@+id/oamount"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#000"
+        android:gravity="center_vertical|center_horizontal"
+        android:maxLines="1" />
+
+
+</LinearLayout>
