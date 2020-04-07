@@ -1,4 +1,4 @@
-# 『たべモニター』のプロジェクト
+# 『たべモニター』 - Android version
 This project started in May 2019. 
 
 R2 埼玉県工業高校生プログラミングコンテスト
